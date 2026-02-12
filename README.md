@@ -1,6 +1,10 @@
-# myapp
+# Act8
 
-A new Flutter project.
+<img width="612" height="562" alt="image" src="https://github.com/user-attachments/assets/649c9e46-55e3-4e36-8957-a4e4f37718f9" />
+
+<img width="323" height="560" alt="image" src="https://github.com/user-attachments/assets/5e3a8a2b-9a20-46d8-947f-1a3761e9ffc7" />
+
+
 
 ## Getting Started
 
